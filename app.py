@@ -72,7 +72,7 @@ if st.button("📊 Calcular"):
 
 # Apoio e agradecimento
 st.markdown("---")
-st.markdown("💚 **Esta ferramenta é gratuita porque acreditamos em um digital mais justo.**\nSe quiser apoiar nosso trabalho, agradecemos muito! Pix: `encontrodaguahub@gmail.com`")
+st.markdown("💚 **Esta ferramenta é gratuita porque acreditamos em um mundo digital mais justo.**\nSe quiser apoiar nosso trabalho, agradecemos muito! Pix: `encontrodaguahub@gmail.com`")
 
 # Contato e Links
 st.markdown("---")
